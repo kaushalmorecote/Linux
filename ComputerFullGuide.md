@@ -1,4 +1,3 @@
-
 # Computer Fundamentals - Full Deep Dive Course
 
 **Part 2: Complete Topics You Requested**  
@@ -182,4 +181,3 @@ Reply with:
 Just tell me what you want next. We can continue this course as long as you want!  
 
 **Save this as `computer_full_guide.md`** for future reference.
-```
