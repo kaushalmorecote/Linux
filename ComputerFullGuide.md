@@ -1,4 +1,4 @@
-```markdown
+
 # Computer Fundamentals - Full Deep Dive Course
 
 **Part 2: Complete Topics You Requested**  
